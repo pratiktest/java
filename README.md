@@ -2,12 +2,12 @@
 
 ## Basics 
 
-* ** Checking java version **
+* **Checking java version**
 ``` 
 java -version
 ```
 
-* ** creating and running basic java program **
+* **creating and running basic java program**
 ```
 vim A.java
 :wq
